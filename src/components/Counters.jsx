@@ -23,7 +23,7 @@ const CountersNew = ({
 
             <div className="col-lg-12 mt-3">
               <table className="table table-bordered text-center">
-                <thead className="bg-warning">
+                <thead className="bg-info">
                   <tr>
                     <th scope="col">Counter</th>
                     <th scope="col">Action</th>
